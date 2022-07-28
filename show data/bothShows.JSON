@@ -1,4 +1,5 @@
-{"nodes": [
+{
+    "nodes": [
 {"name":"Start of Show"},
 {"name":"blue"},
 {"name":"white"},
@@ -20,7 +21,7 @@
 {"name":"walk away"}
 ],
 
-"links":[
+    "links":[
 {"source":0,"target":1,"value":60},
 {"source":0,"target":2,"value":42},
 {"source":1,"target":3,"value":18},
@@ -55,4 +56,5 @@
 {"source":15,"target":18,"value":3},
 {"source":16,"target":17,"value":22},
 {"source":16,"target":18,"value":11}
-]}
+]
+}
