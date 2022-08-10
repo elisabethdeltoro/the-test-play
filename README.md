@@ -5,4 +5,4 @@ so it warranted an unorthodox research method! I'm collecting audience members' 
 and comparing when/if those choices diverge online vs. offline.
 Data collection has come to a close, but you can still watch the show for yourself at https://www.the-test-play.co.uk
 
-Interested in how everyone voted? Take a look at the Show Data folder. It turns out, in this study anyways, the online vs. IRL distinction doesn't carry as much weight as one might imagine!
+Interested in how everyone voted? You can see how I collated the results in the Show Data folder. It turns out, in this study anyways, the online vs. IRL distinction doesn't carry as much weight as one might imagine! You can take a look at my findings at https://www.the-test-play.co.uk/data.html
